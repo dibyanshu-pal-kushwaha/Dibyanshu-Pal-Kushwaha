@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-💻 AI Full-Stack Developer | Open Source Contributor <br>
+💻 AI Full-Stack Developer | Open Source Contributor | Competitive Programmer <br>
 🎯 Building AI-enabled, scalable products
 </p>
 
