@@ -72,10 +72,6 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dibyanshu-pal-kushwaha&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshu-pal-kushwaha&layout=compact)
-
 ![Streak](https://streak-stats.demolab.com/?user=dibyanshu-pal-kushwaha)
 
 ## 🔭 Currently Working On
